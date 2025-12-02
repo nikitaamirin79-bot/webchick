@@ -1,0 +1,108 @@
+.button1 {
+    background: #4452FE;
+    border: none;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 36px;
+    padding-right: 36px;
+    font-size: 17px;
+    cursor: pointer;
+    margin-right: 35px;
+}
+
+.button1:hover {
+    background: #3a46cc;
+}
+
+.button2 {
+    color: white;
+    background: transparent;
+    border: 1px solid white;
+    padding-top: 19px;
+    padding-bottom: 19px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.button2:hover {
+    color: gray;
+    border-color: gray;
+}
+
+.button3 {
+color: white;
+    background: transparent;
+    border: 1px solid white;
+    padding-top: 19px;
+    padding-bottom: 19px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.button3:hover {
+    color: gray;
+    border-color: gray;
+}
+
+
+
+
+
+
+
+/* CONTENT */
+
+.primary {
+    background: #4452FE;
+    border: none;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 36px;
+    padding-right: 36px;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.primary:hover {
+background: #3a46cc; 
+}
+
+
+
+
+/* GALERY */
+
+
+
+
+
+.galery-button {
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.button4 {
+    color: white;
+    background: transparent;
+    border: 1px solid white;
+    padding-top: 19px;
+    padding-bottom: 19px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 17px;
+    cursor: pointer;
+    align-items: center;
+}
+
+.button4:hover {
+    color: gray;
+    border-color: gray;
+}
